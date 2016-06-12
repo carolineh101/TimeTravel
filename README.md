@@ -1,6 +1,6 @@
 # TimeTravel
 
-**Created at BaseHacks 2016**
+**Created at BASEHacks 2016**
 
 Description: A useful website to provide information (i.e., weather, worth of money) for your planned date and location of time travel.
 
