@@ -8,7 +8,7 @@
   		var location = document.getElementById("location").value;
   		var date = document.getElementById("date").value;
 		var xhr = new XMLHttpRequest();
-		xhr.open("GET", "http://api.wolframalpha.com/v2/query?input=weather+" +location+ "+" + date + "&appid=6WP6H8-T2E83386HR&includepodid=WeatherSummary:WeatherData", false);
+		xhr.open("GET", "http://api.wolframalpha.com/v2/query?input=weather+" +location+ "+" + date + "&appid=XXXX&includepodid=WeatherSummary:WeatherData", false);
 		xhr.setRequestHeader('Content-Type', 'text/xml');
 		xhr.send();
 		var xmlDocument = xhr.responseXML;
@@ -54,7 +54,7 @@
 
 		var money = document.getElementById("money").value;
 		var xhr2 = new XMLHttpRequest();
-		xhr2.open("GET", "http://api.wolframalpha.com/v2/query?input=" + money + "+current+US+dollars+in+" + date.split("-")[2] + "&appid=6WP6H8-T2E83386HR&includepodid=Result", false);
+		xhr2.open("GET", "http://api.wolframalpha.com/v2/query?input=" + money + "+current+US+dollars+in+" + date.split("-")[2] + "&appid=XXXX&includepodid=Result", false);
 		xhr2.setRequestHeader('Content-Type', 'text/xml');
 		xhr2.send();
 		var xmlDocument = xhr2.responseXML;
