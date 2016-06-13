@@ -1,6 +1,6 @@
 # TimeTravel
 
-**Winner of "Best With Wolfram Tech" Prize at BASEHacks 2016**
+**Winner of "Best With Wolfram Tech" Prize at BASEHacks 2016 and Devpost Staff Pick**
 
 Description: A useful website to provide information (i.e., weather, worth of money) for your planned date and location of time travel.
 
