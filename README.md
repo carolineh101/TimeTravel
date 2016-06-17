@@ -10,6 +10,8 @@ Version & Date: Version 1.0, 6/12/16
 
 Devpost Link & Story: http://devpost.com/software/time-traveling-for-dummies
 
-How to Use: Download the HTML file, replace the XXXX's in the Wolfram API links with your own API key, and open in a browser.
+How to use: Download the HTML file, replace the XXXX's in the Wolfram API links with your own API key, and open in a browser.
+
+Try it out: http://carolineh101.github.io/TimeTravel/
 
 Author: Caroline Ho
