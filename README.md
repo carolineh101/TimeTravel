@@ -12,6 +12,4 @@ Devpost Link & Story: http://devpost.com/software/time-traveling-for-dummies
 
 How to use: Download the HTML file, replace the XXXX's in the Wolfram API links with your own API key, and open in a browser.
 
-Try it out: http://carolineh101.github.io/TimeTravel/
-
 Author: Caroline Ho
